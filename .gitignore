@@ -1,1 +1,2 @@
 testdata/*.csv
+!testdata/neurotrope.csv
