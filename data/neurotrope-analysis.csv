@@ -1,0 +1,191 @@
+article_number,article_link,article_name,title_subjectivity,title_polarity,content_subjectivity,content_polarity,overall_score
+1,https://www.prnewswire.com/news-releases/neurotrope-bioscience-announces-agreement-with-worldwide-clinical-trials-to-conduct-ongoing-phase-2-study-of-bryostatin-1-partially-funded-by-nih-for-alzheimers-disease-301103042.html,"Neurotrope Bioscience Announces Agreement with Worldwide Clinical Trials, to Conduct Ongoing Phase 2 Study of Bryostatin-1, Partially Funded by NIH, for Alzheimer's Disease
+",0.3,-0.1,0.4536282994114319,0.05516115410693724,N/A
+2,https://www.prnewswire.com/news-releases/neurotrope-announces-strategic-partnership-with-bryologyx-for-supply-of-synthetic-bryostatin-1-and-continuation-of-the-national-cancer-institute-nci-trial-for-childhood-leukemia-301073668.html,"Neurotrope Announces Strategic Partnership with BryoLogyx for Supply of Synthetic Bryostatin-1 and Continuation of the National Cancer Institute (NCI) Trial for Childhood Leukemia
+",0.0,0.0,0.4973149558774558,0.11272604478854482,N/A
+3,https://www.prnewswire.com/news-releases/neurotrope-launches-new-long-term-clinical-trial-of-bryostatin-with-the-national-institutes-of-health-for-the-treatment-of-patients-with-alzheimers-disease-301066973.html,"Neurotrope Launches New Long-Term Clinical Trial of Bryostatin with the National Institutes of Health for the Treatment of Patients with Alzheimer's Disease
+",0.45454545454545453,0.13636363636363635,0.45684493610964194,0.0866539261392203,N/A
+4,https://www.prnewswire.com/news-releases/neurotrope-announces-investor-update-conference-call-301065493.html,"Neurotrope Announces Investor Update Conference Call
+",0.0,0.0,0.43576298701298705,0.06062770562770563,N/A
+5,https://www.prnewswire.com/news-releases/neurotrope-and-metuchen-pharmaceuticals-announce-merger-agreement-to-form-petros-pharmaceuticals-a-mens-health-company-301060769.html,"Neurotrope and Metuchen Pharmaceuticals Announce Merger Agreement to Form Petros Pharmaceuticals, a Men's Health Company
+",0.0,0.0,0.4438450693037849,0.08002502085070892,N/A
+6,https://www.prnewswire.com/news-releases/neurotrope-and-metuchen-pharmaceuticals-announce-merger-agreement-to-form-petros-pharmaceuticals-a-mens-health-company-301060769.html,"Neurotrope and Metuchen Pharmaceuticals Announce Merger Agreement to Form Petros Pharmaceuticals, a Men's Health Company
+",0.0,0.0,0.4438450693037849,0.08002502085070892,N/A
+7,https://www.prnewswire.com/news-releases/neurotrope-inc-announces-18-million-registered-direct-offering-300991558.html,"Neurotrope, Inc. Announces $18 Million Registered Direct Offering
+",0.4,0.1,0.5594665750915749,0.04491949023199021,N/A
+8,https://www.prnewswire.com/news-releases/neurotrope-provides-corporate-update-after-completing-bryostatin-1-data-analysis-for-advanced-alzheimers-disease-trial-300991105.html,"Neurotrope Provides Corporate Update After Completing Bryostatin-1 Data Analysis for Advanced Alzheimer's Disease Trial
+",0.3,0.2,0.5509864463493493,0.08165443427540202,N/A
+9,https://www.prnewswire.com/news-releases/neurotrope-announces-review-of-strategic-alternatives-to-maximize-shareholder-value-300933635.html,"Neurotrope Announces Review of Strategic Alternatives to Maximize Shareholder Value
+",0.0,0.0,0.5265189520624304,0.098865265169613,N/A
+10,https://www.prnewswire.com/news-releases/neurotrope-announces-top-line-results-from-confirmatory-phase-2-study-of-bryostatin-1-in-moderate-to-severe-alzheimers-disease-300913655.html,"Neurotrope Announces Top-line Results From Confirmatory Phase 2 Study of Bryostatin-1 in Moderate to Severe Alzheimer's Disease
+",0.7,0.0,0.49728157644824306,0.0907000407000407,N/A
+11,https://www.prnewswire.com/news-releases/neurotrope-announces-publication-highlighting-the-potential-of-bryostatin-as-a-unique-neurorestorative-therapy-300900517.html,"Neurotrope Announces Publication Highlighting the Potential of Bryostatin as a Unique Neurorestorative Therapy
+",1.0,0.1875,0.4890114431023522,0.07908538431265703,N/A
+12,https://www.prnewswire.com/news-releases/neurotrope-announces-corporate-update-and-reports-second-quarter-2019-financial-results-300896135.html,"Neurotrope Announces Corporate Update and Reports Second Quarter 2019 Financial Results
+",0.0,0.0,0.5018729967948717,0.08038706085581086,N/A
+13,https://www.prnewswire.com/news-releases/neurotrope-strategic-advisory-board-members-participating-in-key-opinion-leader-call-sponsored-by-oppenheimers-biotechnology-team-300886253.html,"Neurotrope Strategic Advisory Board Members Participating in Key Opinion Leader Call Sponsored by Oppenheimer's Biotechnology Team
+",1.0,0.0,0.5239166816089892,0.10344014959399576,N/A
+14,https://www.prnewswire.com/news-releases/neurotrope-concludes-data-collection-in-confirmatory-phase-2-clinical-trial-of-moderately-severe-to-severe-alzheimers-disease-300884499.html,"Neurotrope Concludes Data Collection in Confirmatory Phase 2 Clinical Trial of Moderately Severe to Severe Alzheimer's Disease
+",0.7,0.0,0.4774395539101421,0.07779410132351308,N/A
+15,https://www.prnewswire.com/news-releases/neurotrope-to-present-at-the-alzheimers-association-international-conference-neurotrope-president-and-chief-scientific-officer-dr-daniel-l-alkon-to-receive-cure-coin-award-design-of-confirmatory-phase-2-trial-to-be-presente-300883209.html,"Neurotrope to Present at the Alzheimer's Association International Conference; Neurotrope President and Chief Scientific Officer, Dr. Daniel L. Alkon, to Receive Cure Coin Award; Design of Confirmatory Phase 2 Trial to be Presented
+",0.0,0.0,0.507988344988345,0.1146833166833167,N/A
+16,https://www.prnewswire.com/news-releases/neurotrope-ceo-to-present-at-the-maxim-group-key-opinion-leader-discussion-on-alzheimers-disease-on-june-26th-2019-300873326.html,"Neurotrope CEO to Present at the Maxim Group Key Opinion Leader Discussion on Alzheimer's Disease on June 26th, 2019
+",0.5,0.0,0.5192829100723837,0.114056995635943,N/A
+17,https://www.prnewswire.com/news-releases/neurotropes-president-and-chief-scientific-officer-to-present-at-the-alzheimers-solutions-conference-at-the-university-of-the-sciences-in-philadelphia-pa-on-june-3rd-2019-300860139.html,"Neurotrope's President and Chief Scientific Officer to Present at the Alzheimer's Solutions Conference at The University of the Sciences in Philadelphia, PA on June 3rd, 2019
+",0.0,0.0,0.5185641025641025,0.1133954378954379,N/A
+18,https://www.prnewswire.com/news-releases/neurotrope-to-present-at-the-ld-micro-9th-annual-invitational-conference-on-june-4-2019-300858617.html,"Neurotrope to Present at the LD Micro 9th Annual Invitational Conference on June 4, 2019
+",0.0,0.0,0.5113881732302784,0.10616225879383775,N/A
+19,https://www.prnewswire.com/news-releases/neurotrope-announces-the-appointment-of-two-new-board-members-300767231.html,"Neurotrope Announces the Appointment of Two New Board Members
+",0.45454545454545453,0.13636363636363635,0.4161039209546672,0.07978402194820107,N/A
+20,https://www.prnewswire.com/news-releases/neurotrope-announces-publication-of-phase-2-study-of-bryostatin-1-in-moderate-to-severe-alzheimers-disease-in-the-journal-of-alzheimers-disease-300767224.html,"Neurotrope Announces Publication of Phase 2 Study of Bryostatin-1 in Moderate to Severe Alzheimer's Disease in the Journal of Alzheimer's Disease
+",0.7,0.0,0.506753663003663,0.1051149743114029,N/A
+21,https://www.prnewswire.com/news-releases/neurotrope-to-present-at-the-ladenburg-thalmann-2018-healthcare-conference-300720075.html,"Neurotrope to Present at the Ladenburg Thalmann 2018 Healthcare Conference
+",0.0,0.0,0.6143398268398268,0.10142496392496395,N/A
+22,https://www.prnewswire.com/news-releases/neurotrope-to-present-additional-phase-2-data-at-the-11th-edition-of-clinical-trials-on-alzheimers-disease-ctad2018-300719127.html,"Neurotrope to Present Additional Phase 2 Data at the 11th Edition of Clinical Trials on Alzheimer's Disease (CTAD2018)
+",0.0,0.0,0.5394865418269673,0.09882585499606779,N/A
+23,https://www.prnewswire.com/news-releases/neurotrope-enters-into-collaboration-with-the-nemours--alfred-i-dupont-hospital-for-children-to-initiate-a-clinical-trial-in-fragile-x-syndrome-300706794.html,"Neurotrope Enters into Collaboration with the Nemours / Alfred I. duPont Hospital for Children to Initiate a Clinical Trial in Fragile X Syndrome
+",0.5,0.0,0.4785553793285753,0.05879489925881679,N/A
+24,https://www.prnewswire.com/news-releases/neurotrope-announces-participation-at-the-20th-annual-rodman--renshaw-global-investment-conference-in-new-york-city-september-4-6-2018-300703044.html,"Neurotrope Announces Participation at the 20th Annual Rodman & Renshaw Global Investment Conference in New York City September 4-6, 2018
+",0.15151515151515152,0.04545454545454545,0.5150792540792541,0.08874392274392276,N/A
+25,https://www.prnewswire.com/news-releases/neurotrope-provides-business-update-and-reports-second-quarter-2018-financial-results-300695872.html,"Neurotrope Provides Business Update and Reports Second Quarter 2018 Financial Results
+",0.0,0.0,0.49288412975912965,0.06991255272505274,N/A
+26,https://www.prnewswire.com/news-releases/at-aaic-2018-neurotrope-presents-additional-clinical-results-showing-cognitive-improvement-in-phase-2-data-assessing-bryostatin-1-in-moderate-to-severe-alzheimers-patients-300686185.html,"At AAIC 2018, Neurotrope Presents Additional Clinical Results Showing Cognitive Improvement in Phase 2 Data Assessing Bryostatin-1 in Moderate-to-Severe Alzheimer's Patients
+",0.0,0.0,0.48245996427814597,0.10742423161254332,N/A
+27,https://www.prnewswire.com/news-releases/neurotrope-announces-the-initiation-of-enrollment-of-its-confirmatory-phase-2-trial-in-alzheimers-disease-300681010.html,"Neurotrope Announces the Initiation of Enrollment of its Confirmatory Phase 2 Trial in Alzheimer's Disease
+",0.0,0.0,0.48414594664594657,0.09898041773041774,N/A
+28,https://www.prnewswire.com/news-releases/neurotrope-appoints-leading-experts-in-alzheimers-disease-to-its-scientific-advisory-board-sab-300679027.html,"Neurotrope Appoints Leading Experts in Alzheimer's Disease to its Scientific Advisory Board (SAB)
+",0.0,0.0,0.39221152410807586,0.09144835050007462,N/A
+29,https://www.prnewswire.com/news-releases/neurotrope-to-present-additional-phase-2-data-at-the-alzheimers-association-international-conference-aaic-2018-meeting-300675022.html,"Neurotrope to Present Additional Phase 2 Data at the Alzheimer's Association International Conference (AAIC) 2018 Meeting
+",0.0,0.0,0.4803059934415866,0.11436310864276965,N/A
+30,https://www.prnewswire.com/news-releases/neurotrope-in-consultation-with-leading-neuroscientists-completes-the-study-design-for-its-confirmatory-phase-2-trial-in-advanced-alzheimers-patients-300643259.html,"Neurotrope, In Consultation With Leading Neuroscientists, Completes the Study Design for its Confirmatory Phase 2 Trial in Advanced Alzheimer's Patients
+",0.6,0.4,0.5044718822843823,0.12110415626040627,N/A
+31,https://www.prnewswire.com/news-releases/neurotrope-to-present-at-bio-ceo--investor-conference-300594834.html,"Neurotrope to Present at BIO CEO & Investor Conference
+",0.0,0.0,0.5177648277648278,0.09112961112961114,N/A
+32,https://www.prnewswire.com/news-releases/neurotrope-to-present-at-noblecon-14th-annual-institutional-investor-conference-300588070.html,"Neurotrope to Present at NobleCon 14th Annual Institutional Investor Conference
+",0.0,0.0,0.5203387881959309,0.07037499537499539,N/A
+33,https://www.prnewswire.com/news-releases/neurotropes-bryostatin-improves-cognition-in-patients-with-advanced-alzheimers-disease-based-on-further-analysis-of-phase-2-clinical-trial-data-300578025.html,"Neurotrope's Bryostatin Improves Cognition in Patients with Advanced Alzheimer's Disease Based on Further Analysis of Phase 2 Clinical Trial Data
+",0.55,0.2,0.47839281930191024,0.12259247486520217,N/A
+34,https://www.prnewswire.com/news-releases/neurotrope-to-present-additional-findings-from-bryostatin-phase-2-trial-in-advanced-alzheimers-disease-300573131.html,"Neurotrope to Present Additional Findings from Bryostatin Phase 2 Trial in Advanced Alzheimer's Disease
+",0.3,0.2,0.5104822100975946,0.08667114936345707,N/A
+35,https://www.prnewswire.com/news-releases/neurotrope-appoints-charles-s-ryan-as-chief-executive-officer-300572448.html,"Neurotrope Appoints Charles S. Ryan as Chief Executive Officer
+",0.0,0.0,0.46905511155511154,0.09300233496662072,N/A
+36,https://www.prnewswire.com/news-releases/neurotrope-provides-business-update-and-reports-second-quarter-2017-financial-results-300501768.html,"Neurotrope Provides Business Update and Reports Second Quarter 2017 Financial Results
+",0.0,0.0,0.5208211926961926,0.08543401043401044,N/A
+37,https://www.prnewswire.com/news-releases/neurotrope-presents-phase-2-data-assessing-bryostatin-1-in-moderate-to-severe-alzheimers-patients-at-aaic-2017-300490788.html,"Neurotrope Presents Phase 2 Data Assessing Bryostatin-1 in Moderate-to-Severe Alzheimer's Patients at AAIC 2017
+",0.0,0.0,0.49785389029575067,0.07638199978316258,N/A
+38,https://www.prnewswire.com/news-releases/neurotrope-to-present-bryostatin-phase-2-data-in-an-oral-presentation-at-aaic-2017-meeting-300481656.html,"Neurotrope to Present Bryostatin Phase 2 Data in an Oral Presentation at AAIC 2017 Meeting
+",0.0,0.0,0.5179475495264969,0.08787060892324053,N/A
+39,https://www.prnewswire.com/news-releases/neurotrope-announces-positive-top-line-results-from-phase-2-study-of-bryostatin-1-for-moderate-to-severe-alzheimers-disease-300448563.html,"NEUROTROPE Announces Positive Top-Line Results From Phase 2 Study of Bryostatin-1 for Moderate to Severe Alzheimer's Disease
+",0.6227272727272727,0.11363636363636363,0.5035578903297351,0.054792577972189636,N/A
+40,https://www.prnewswire.com/news-releases/neurotrope-bioscience-to-release-results-from-phase-2-clinical-trial-in-moderate-to-severe-alzheimers-disease-on-may-1-2017-300447822.html,"Neurotrope Bioscience to Release Results From Phase 2 Clinical Trial in Moderate to Severe Alzheimer's Disease on May 1, 2017
+",0.7,0.0,0.5352214452214452,0.1009761666904524,N/A
+41,https://www.prnewswire.com/news-releases/neurotrope-inc-announces-approval-for-listing-on-the-nasdaq-capital-market-300429312.html,"Neurotrope, Inc. Announces Approval for Listing on the NASDAQ Capital Market
+",0.0,0.0,0.5128074009324008,0.09426323676323675,N/A
+42,https://www.prnewswire.com/news-releases/neurotropes-president-and-chief-scientific-officer-to-present-keynote-address-at-sachs-associates-2nd-annual-neuroscience-biopartnering--investment-forum-300428998.html,"Neurotrope's President and Chief Scientific Officer to Present Keynote Address at Sachs Associates' 2nd Annual Neuroscience Biopartnering & Investment Forum
+",0.0,0.0,0.5194720008673497,0.09844254582626674,N/A
+43,https://www.prnewswire.com/news-releases/neurotrope-bioscience-to-present-at-the-oppenheimer-27th-annual-healthcare-conference-300424438.html,"Neurotrope BioScience to Present at the Oppenheimer 27th Annual Healthcare Conference
+",0.0,0.0,0.5361149961149961,0.07431984681984682,N/A
+44,https://www.prnewswire.com/news-releases/neurotrope-bioscience-concludes-patient-dosing-and-monitoring-in-its-148-patient-phase-2-clinical-trial-of-moderate-to-severe-alzheimers-dementia-300414678.html,"Neurotrope Bioscience Concludes Patient Dosing and Monitoring in its 148 Patient Phase 2 Clinical Trial of Moderate to Severe Alzheimer's Dementia
+",0.7,0.0,0.5062745997172227,0.031161188538237714,N/A
+45,https://www.prnewswire.com/news-releases/neurotrope-bioscience-to-present-at-the-19th-annual-bio-ceo--investor-conference-2017-300404063.html,"Neurotrope Bioscience to Present at the 19th Annual BIO CEO & Investor Conference 2017
+",0.0,0.0,0.47119075369075364,0.03825924075924076,N/A
+46,https://www.prnewswire.com/news-releases/neurotrope-completes-licensing-agreement-for-accelerated-synthesis-of-alzheimers-drug-bryostatin-1-300398546.html,"Neurotrope Completes Licensing Agreement for Accelerated Synthesis of Alzheimer's Drug Bryostatin-1
+",0.0,0.0,0.4958886792220125,0.048891078057744716,N/A
+47,https://www.prnewswire.com/news-releases/neurotrope-bioscience-to-present-at-the-noble-financial-capital-markets-13th-annual-investor-conference-300397915.html,"Neurotrope Bioscience to Present at the Noble Financial Capital Markets' 13th Annual Investor Conference
+",0.225,0.15,0.4787206840778269,0.033745718567147136,N/A
+48,https://www.prnewswire.com/news-releases/neurotrope-announces-reverse-split-of-common-stock-in-preparation-for-nasdaq-uplisting-300390037.html,"Neurotrope Announces Reverse Split of Common Stock in Preparation for NASDAQ Uplisting
+",0.5,-0.3,0.5096659629678497,0.04661376359489565,N/A
+49,https://www.prnewswire.com/news-releases/neurotrope-to-present-at-two-upcoming-investor-conferences-300386204.html,"Neurotrope to Present at Two Upcoming Investor Conferences
+",0.0,0.0,0.4951937645687646,0.07772914585414585,N/A
+50,https://www.prnewswire.com/news-releases/neurotrope-issues-statement-on-eli-lillys-solanezumab-300368037.html,"Neurotrope Issues Statement On Eli Lilly's Solanezumab
+",0.0,0.0,0.46765860950643556,0.03704049573614791,N/A
+51,https://www.prnewswire.com/news-releases/neurotrope-completes-enrollment-in-its-randomized-double-blinded-placebo-controlled-phase-2-clinical-trial-of-bryostatin-in-patients-with-moderate-to-severe-alzheimers-disease-300367200.html,"Neurotrope Completes Enrollment in its Randomized, Double-Blinded, Placebo-Controlled Phase 2 Clinical Trial of Bryostatin in Patients With Moderate to Severe Alzheimer's Disease
+",0.7,0.0,0.5044570372156578,0.09896942138321452,N/A
+52,https://www.prnewswire.com/news-releases/neurotrope-announces-private-placement-of-20-million-300365721.html,"Neurotrope Announces Private Placement of $20 Million
+",0.375,0.0,0.4712153587153587,0.03155301488634822,N/A
+53,https://www.prnewswire.com/news-releases/dr-daniel-alkon-appointed-president-of-neurotrope-inc-300335249.html,"Dr. Daniel Alkon Appointed President of Neurotrope, Inc.
+",0.0,0.0,0.548960113960114,0.08306227106227107,N/A
+54,https://www.prnewswire.com/news-releases/susanne-wilke-phd-appointed-chief-executive-officer-of-neurotrope-inc-300322513.html,"Susanne Wilke, PhD Appointed Chief Executive Officer of Neurotrope, Inc.
+",0.0,0.0,0.4448580207671116,0.056371658644385925,N/A
+55,https://www.prnewswire.com/news-releases/neurotrope-submits-an-amended-protocol-to-the-us-food-and-drug-administration-for-its-phase-2b-clinical-trial-of-its-lead-drug-candidate-bryostatin-1-for-the-treatment-of-advanced-alzheimers-disease-300313193.html,"Neurotrope Submits an Amended Protocol to the U.S. Food and Drug Administration for its Phase 2b Clinical Trial of its Lead Drug Candidate, Bryostatin-1, for the Treatment of Advanced Alzheimer's Disease
+",0.6,0.4,0.4633039092055485,0.09668528193118359,N/A
+56,https://www.prnewswire.com/news-releases/neurotrope-announces-changes-to-the-board-of-directors-and-management-300309773.html,"Neurotrope Announces Changes to the Board of Directors and Management
+",0.0,0.0,0.5095373145373145,0.06552114552114552,N/A
+57,https://www.prnewswire.com/news-releases/neurotrope-announces-that-a-new-study-published-in-the-journal-of-biological-chemistry-shows-that-bryostatin-a-pkc-epsilon-activator-generates-new-synapses-through-accumulation-of-the-synaptic-anchoring-protein-psd-95-at-neurona-300288867.html,"Neurotrope announces that a new study published in the Journal of Biological Chemistry shows that Bryostatin, a PKC epsilon Activator, Generates New Synapses Through Accumulation of the Synaptic Anchoring Protein PSD-95 at Neuronal Membranes
+",0.45454545454545453,0.13636363636363635,0.46792211411776635,0.07284418480070654,N/A
+58,https://www.prnewswire.com/news-releases/neurotrope-appoints-paula-t-trzepacz-md-as-executive-vice-president-and-chief-medical-officer-300287571.html,"Neurotrope Appoints Paula T. Trzepacz, M.D. as Executive Vice President and Chief Medical Officer
+",0.0,0.0,0.3647450763522192,0.08491835545406974,N/A
+59,https://www.prnewswire.com/news-releases/neurotropes-chief-scientific-officer-dr-daniel-alkon-presents-at-the-gordon-conference-drugs-that-target-common-mechanisms-for-synaptic-restoration-in-mental-retardation-and-alzheimers-disease-300282912.html,"Neurotrope's Chief Scientific Officer Dr. Daniel Alkon Presents at the Gordon Conference: Drugs That Target Common Mechanisms for Synaptic Restoration in Mental Retardation and Alzheimer's Disease
+",0.35,-0.2,0.486855836471221,0.04749532518763288,N/A
+60,https://www.prnewswire.com/news-releases/neurotrope-enters-into-research-collaboration-with-the-international-rett-syndrome-foundation--rettsyndromeorg-300271272.html,"Neurotrope Enters Into Research Collaboration With the International Rett Syndrome Foundation / Rettsyndrome.org
+",0.0,0.0,0.5115310849488063,0.09377333636827309,N/A
+61,https://www.prnewswire.com/news-releases/neurotrope-announces-publication-demonstrating-synaptic-regeneration-with-the-pkc-epsilon-activator-bryostatin-in-a-fragile-x-disease-late-brain-development-model-300232188.html,"Neurotrope Announces Publication Demonstrating Synaptic Regeneration with the PKC epsilon Activator Bryostatin, in a Fragile X Disease Late Brain Development Model
+",0.55,-0.15,0.4669426587904848,0.06800911950368474,N/A
+62,https://www.prnewswire.com/news-releases/neurotrope-inc-announces-153-million-private-placement-300179067.html,"Neurotrope, Inc. Announces $15.3 million Private Placement
+",0.375,0.0,0.4923821548821549,-0.014646464646464649,N/A
+63,https://www.prnewswire.com/news-releases/neurotrope-to-showcase-bryostatin-as-a-potential-treatment-for-alzheimers-disease-at-the-2015-alzheimers-association-international-conference-300115558.html,"Neurotrope to Showcase Bryostatin as a Potential Treatment for Alzheimer's Disease at the 2015 Alzheimer's Association International Conference
+",0.5,0.0,0.5256410256410257,-0.015384615384615387,N/A
+64,https://www.prnewswire.com/news-releases/neurotrope-to-conduct-study-on-niemann-pick-type-c-a-devastating-rare-pediatric-disease-300104024.html,"Neurotrope to Conduct Study on Niemann-Pick Type C, a Devastating Rare Pediatric Disease
+",0.95,-0.35,0.5427910052910054,0.09186507936507936,N/A
+65,https://www.prnewswire.com/news-releases/neurotrope-to-present-findings-of-in-vitro-studies-of-bryostatins-effects-on-niemann-pick-type-c1-cells-at-the-annual-michael-marcia--christa-parseghian-scientific-conference-for-niemann-pick-type-c-300098279.html,"Neurotrope to Present Findings of In-vitro Studies of Bryostatin's Effects on Niemann Pick Type C1 Cells at the Annual ""Michael, Marcia & Christa Parseghian Scientific Conference"" for Niemann-Pick Type C
+",0.0,0.0,0.4910714285714286,0.1563822751322751,N/A
+66,https://www.prnewswire.com/news-releases/neurotrope-joins-national-organization-for-rare-disorders-nord-corporate-council-300070913.html,"Neurotrope Joins National Organization for Rare Disorders (NORD) Corporate Council
+",0.45,0.15,0.5303459119496855,0.14919137466307275,N/A
+67,https://www.prnewswire.com/news-releases/neurotrope-receives-research-grant-from-the-fraxa-research-foundation-to-fund-pre-clinical-fragile-x-syndrome-behavioral-studies-300068336.html,"Neurotrope Receives Research Grant From the FRAXA Research Foundation to Fund Pre-Clinical Fragile X Syndrome Behavioral Studies
+",0.5,0.0,0.45748847926267294,0.13329493087557603,N/A
+68,https://www.prnewswire.com/news-releases/neurotrope-receives-fda-orphan-drug-designation-for-bryostatin-in-the-treatment-of-fragile-x-syndrome-300063444.html,"Neurotrope Receives FDA Orphan Drug Designation for Bryostatin in the Treatment of Fragile X Syndrome
+",0.5,0.0,0.49603174603174616,0.07172619047619047,N/A
+69,https://www.prnewswire.com/news-releases/neurotrope-selects-worldwide-clinical-trials-to-commence-services-for-phase-2b-trial-of-bryostatin-for-the-treatment-of-alzheimers-disease-300061121.html,"Neurotrope Selects Worldwide Clinical Trials to Commence Services for Phase 2B Trial of Bryostatin for the Treatment of Alzheimer's Disease
+",0.0,0.0,0.4987985178663144,0.11157458360848191,N/A
+70,https://www.prnewswire.com/news-releases/neurotrope-announces-positive-final-results-from-its-phase-2a-safety-study-for-the-treatment-of-alzheimers-disease-300051581.html,"Neurotrope Announces Positive Final Results From its Phase 2a Safety Study for the Treatment of Alzheimer's Disease
+",0.7727272727272727,0.11363636363636363,0.4256360598465861,0.07831320726057568,N/A
+71,https://www.prnewswire.com/news-releases/neurotrope-announces-positive-top-line-results-from-its-phase-2a-study-of-bryostatin-1-in-alzheimers-disease-300038367.html,"Neurotrope Announces Positive Top-Line Results From Its Phase 2a Study of Bryostatin-1 in Alzheimer's Disease
+",0.5454545454545454,0.22727272727272727,0.4974718614718614,0.12153571428571429,N/A
+72,https://www.prnewswire.com/news-releases/neurotrope-forms-clinical-advisory-board-to-support-alzheimers-disease-program-300020133.html,"Neurotrope Forms Clinical Advisory Board to Support Alzheimer's Disease Program
+",0.0,0.0,0.5227388682745826,0.0750657081014224,N/A
+73,https://www.prnewswire.com/news-releases/neurotrope-to-present-at-the-biotech-showcase-2015-conference-300016844.html,"Neurotrope to Present at the Biotech Showcase 2015 Conference
+",0.0,0.0,0.44634353741496596,0.036819727891156465,N/A
+74,https://www.prnewswire.com/news-releases/neurotrope-announces-last-patient-dosed-in-phase-2a-clinical-trial-of-bryostatin-1-for-alzheimers-disease-283326781.html,"Neurotrope Announces Last Patient Dosed in Phase 2a Clinical Trial of Bryostatin-1 for Alzheimer's Disease
+",0.06666666666666667,0.0,0.4097209338280767,0.08423005565862708,N/A
+75,https://www.prnewswire.com/news-releases/neurotrope-appoints-warren-w-wasiewski-md-as-executive-vice-president-development-and-chief-medical-officer-281758391.html,"Neurotrope Appoints Warren W. Wasiewski, M.D. as Executive Vice President, Development and Chief Medical Officer
+",0.0,0.0,0.4111528822055138,0.10457393483709272,N/A
+76,https://www.prnewswire.com/news-releases/larry-d-altstiel-md-phd-joins-neurotrope-board-of-directors-275578311.html,"Larry D. Altstiel, M.D., Ph.D. Joins Neurotrope Board of Directors
+",0.0,0.0,0.37286706349206344,0.05133928571428572,N/A
+77,https://www.prnewswire.com/news-releases/neurotrope-to-host-conference-call-272027951.html,"Neurotrope To Host Conference Call
+",0.0,0.0,0.4733766233766234,0.08246753246753248,N/A
+78,https://www.prnewswire.com/news-releases/neurotropes-approach-to-treating-alzheimers-disease-through-its-product-bryostatin-1-an-activator-of-protein-kinase-c-epsilon-pkce-supported-by-blanchette-rockefeller-neurosciences-institute-brni-publication-identifying--271669831.html,"Neurotrope's Approach to Treating Alzheimer's Disease Through Its Product Bryostatin-1, an Activator of Protein Kinase C Epsilon (PKCe), Supported by Blanchette Rockefeller Neurosciences Institute (BRNI) Publication, Identifying PKCe as a Biomarker of Alzheimer's
+",0.0,0.0,0.4906343656343655,0.057126207126207126,N/A
+79,https://www.prnewswire.com/news-releases/neurotrope-initiates-phase-2a-study-of-bryostatin-for-the-treatment-of-alzheimers-disease---doses-first-patients-269026361.html,"Neurotrope Initiates Phase 2a Study of Bryostatin for the Treatment of Alzheimer's Disease - Doses First Patients
+",0.3333333333333333,0.25,0.4485475051264524,0.08931989063568012,N/A
+80,https://www.prnewswire.com/news-releases/neurotrope-enters-collaborative-agreement-with-icahn-school-of-medicine-at-mount-sinai-for-use-of-bryostatin-1-in-the-treatment-of-niemann-pick-disease-type-c-268092291.html,"Neurotrope Enters Collaborative Agreement with Icahn School of Medicine at Mount Sinai for use of Bryostatin-1 in the Treatment of Niemann-Pick Disease Type C
+",0.0,0.0,0.48292373136123135,0.05655701358826359,N/A
+81,https://www.prnewswire.com/news-releases/neurotrope-board-of-directors-appoints-chairmen-ramat-and-freiman-as-interim-co-ceos-267679761.html,"Neurotrope Board of Directors Appoints Chairmen Ramat and Freiman as Interim Co-CEOs
+",0.0,0.0,0.45631692868534973,0.14674755069491913,N/A
+82,https://www.prnewswire.com/news-releases/neurotrope-appoints-charles-s-ramat-and-paul-freiman-as-co-chairmen-of-the-board-263798491.html,"Neurotrope Appoints Charles S. Ramat and Paul Freiman as Co-Chairmen of the Board
+",0.0,0.0,0.41661141490088854,0.1430886876281613,N/A
+83,https://www.prnewswire.com/news-releases/neurotrope-appoints-neuroscientist-sam-kongsamut-as-executive-director-pharmacology-261809291.html,"Neurotrope Appoints Neuroscientist Sam Kongsamut as Executive Director, Pharmacology
+",0.0,0.0,0.46071185064935066,0.11852516233766235,N/A
+84,https://www.prnewswire.com/news-releases/neurotrope-announces-publication-of-positive-human-cell-culture-and-mouse-model-data-of-bryostatin-1-260913301.html,"Neurotrope Announces Publication of Positive Human Cell Culture and Mouse Model Data of Bryostatin 1
+",0.3227272727272727,0.11363636363636363,0.4216679653679654,0.045118831168831176,N/A
+85,https://www.prnewswire.com/news-releases/neurotrope-inc-collaborating-with-dr-paul-wender-and-stanford-university-on-bryostatin-analogues-259929771.html,"Neurotrope, Inc. Collaborating with Dr. Paul Wender and Stanford University on Bryostatin Analogues
+",0.0,0.0,0.4196666666666667,0.015333333333333336,N/A
+86,https://www.prnewswire.com/news-releases/neurotrope-inc-hires-three-experienced-senior-pharmaceutical-executives---a-chief-medical-officer-and-heads-of-commercial-operations-and-regulatory-affairs-242377401.html,"Neurotrope, Inc., Hires Three Experienced Senior Pharmaceutical Executives - A Chief Medical Officer and Heads of Commercial Operations and Regulatory Affairs
+",0.3,0.26666666666666666,0.3511585005903188,0.08629722550177098,N/A
+87,https://www.prnewswire.com/news-releases/neurotrope-inc-to-present-at-noble-financial-tenth-annual-equity-conference-in-sandpiper-bay-florida-240082441.html,"Neurotrope, Inc., to Present at Noble Financial Tenth Annual Equity Conference in Sandpiper Bay, Florida
+",0.3,0.19999999999999998,0.47275132275132276,0.14325396825396824,N/A
+88,https://www.prnewswire.com/news-releases/neurotrope-inc-to-present-at-biotech-showcase-2014-in-san-francisco-238852341.html,"Neurotrope, Inc., to Present at Biotech Showcase 2014 in San Francisco
+",0.0,0.0,0.39136904761904767,0.10744047619047618,N/A
+89,https://www.prnewswire.com/news-releases/neurotrope-inc-appoints-james-gottlieb-to-the-companys-board-of-directors-236006611.html,"Neurotrope, Inc., Appoints James Gottlieb to the Company's Board of Directors
+",0.0,0.0,0.28752705627705627,0.06371753246753248,N/A
+90,https://www.prnewswire.com/news-releases/neurotrope-inc-appoints-paul-e-freiman-to-the-companys-board-of-directors-228755721.html,"Neurotrope, Inc., Appoints Paul E. Freiman to the Company's Board of Directors
+",0.0,0.0,0.4646164021164021,0.22996031746031745,N/A
+91,https://www.prnewswire.com/news-releases/neurotrope-inc-announces-dr-larry-d-altstiel-md-phd-appointed-to-the-companys-scientific-advisory-board-227801911.html,"Neurotrope, Inc., Announces Dr. Larry D. Altstiel, M.D., Ph.D. Appointed to the Company's Scientific Advisory Board
+",0.0,0.0,0.35429197994987477,0.11919172932330827,N/A
+92,https://www.prnewswire.com/news-releases/neurotrope-inc-announces-closing-of-additional-108-million-of-its-private-offering-227049591.html,"Neurotrope, Inc. Announces Closing of Additional $1.08 Million of its Private Offering
+",0.375,0.0,0.39630952380952383,0.14392857142857146,N/A
+93,https://www.prnewswire.com/news-releases/neurotrope-inc-announces-hiring-robert-weinstein-as-executive-vice-president-and-chief-financial-officer-226732421.html,"Neurotrope, Inc., Announces Hiring Robert Weinstein As Executive Vice President and Chief Financial Officer
+",0.0,0.0,0.282034632034632,0.10481601731601731,N/A
+94,https://www.prnewswire.com/news-releases/neurotrope-inc-announces-new-trading-symbol-223112631.html,"Neurotrope, Inc., Announces New Trading Symbol
+",0.45454545454545453,0.13636363636363635,0.4385912698412698,0.1449404761904762,N/A
+95,https://www.prnewswire.com/news-releases/neurotrope-inc-announces-reverse-merger-and-completion-of-219-million-private-offering-221703811.html,"Neurotrope, Inc., Announces Reverse Merger and Completion of $21.9 Million Private Offering
+",0.375,0.0,0.3657203907203908,0.10947663447663447,N/A

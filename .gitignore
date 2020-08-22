@@ -1,2 +1,2 @@
-testdata/*.csv
 !testdata/neurotrope.csv
+testdata/*.csv
